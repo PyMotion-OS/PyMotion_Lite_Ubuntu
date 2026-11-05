@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "product": "PyMotion Lite",
+  "product_bundle": "1.0.1",
+  "sdk": "1.0.1",
+  "esp32_firmware": "1.0.0",
+  "n32_firmware": "1.0.0",
+  "rpc_api": "1.0.0",
+  "hardware_revisions": [
+    "rev-b"
+  ],
+  "python_requires": ">=3.10,<3.15",
+  "supported_ubuntu_versions": [
+    "24.04"
+  ],
+  "primary_ubuntu_version": "24.04",
+  "supported_targets": {
+    "windows-x64": [
+      "cp310",
+      "cp311",
+      "cp312",
+      "cp313",
+      "cp314"
+    ],
+    "ubuntu-amd64": [
+      "cp310",
+      "cp311",
+      "cp312",
+      "cp313",
+      "cp314"
+    ],
+    "debian13-arm64": [
+      "cp313"
+    ]
+  },
+  "release_state": "development",
+  "hil_status": "NOT_RUN",
+  "private_implementation": "native-extension-required"
+}

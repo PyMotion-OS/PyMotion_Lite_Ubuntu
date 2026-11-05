@@ -1,0 +1,6 @@
+# Generated from the platform-specific offline wheel set.
+# Package hash checks are intentionally disabled for this Ubuntu bundle.
+ifaddr==0.2.0
+pymotion-lite==1.0.1
+pyserial==3.5
+zeroconf==0.151.3
