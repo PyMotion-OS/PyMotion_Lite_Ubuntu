@@ -1,0 +1,349 @@
+PyMotion Lite SDK 个人与教育用途许可协议
+版本 1.0
+生效日期：2026 年 11 月 2 日
+
+版权主体：派动控制
+版权所有，保留所有权利。
+
+重要提示
+
+本协议包含用途限制、安全义务、免责声明和责任限制。下载、安装、复制、
+接收、转发或使用本软件，即表示您已经阅读、理解并同意受本协议约束。
+如果您不同意本协议，请勿下载、安装、复制、转发或使用本软件。
+
+1. 定义与适用范围
+
+“本软件”是指随本协议提供的 PyMotion Lite SDK 交付包，包括其中的
+二进制程序、安装和校验工具、离线运行环境、公开 API、文档、示例、配置文件
+以及由派动控制提供并明确适用本协议的更新。
+
+“个人用途”是指自然人出于学习、兴趣、研究或非营利性原型验证而进行的
+非商业使用。
+
+“教育用途”是指学校、教师或学习者在非营利性课堂教学、课程实验或学术研究中
+进行的非商业使用。收费培训、面向客户的服务、企业商业研发、产品开发、生产部署
+或其他直接或间接获取商业利益的活动，不属于教育用途。
+
+本软件包含的第三方组件仍分别受其自身许可证和通知约束。本协议不限制第三方
+许可证已经授予的权利，也不扩大派动控制对第三方组件的授权范围。
+
+2. 有限许可
+
+在您持续遵守本协议的前提下，派动控制授予您一项有限的、非独占的、不可转让
+（但第 3 条允许的完整转发除外）、不可再许可、可撤销的许可，允许您：
+
+a. 为个人用途或教育用途，在您拥有或管理的计算机上安装和运行本软件；
+b. 为上述允许用途制作合理数量的备份副本；
+c. 为学习和教学修改公开示例代码及自行编写的应用代码，但不得因此取得本软件
+   二进制程序、内部实现或其他未公开部分的权利。
+
+除本协议明确授予的权利外，其他权利均由派动控制保留。本协议不转让本软件的
+所有权、著作权、商标权、专利权、商业秘密或其他知识产权。
+
+3. 允许的第三方转发
+
+您可以免费向第三方转发本软件，但必须同时满足以下全部条件：
+
+a. 仅转发由派动控制发布的完整、未修改交付包；
+b. 保留本协议、版权声明、版本信息、数字签名、哈希清单和第三方通知；
+c. 不得收取软件费用，不得与付费产品、付费服务、商业课程或商业解决方案捆绑；
+d. 不得以派动控制代理商、授权经销商或合作伙伴的名义进行转发；
+e. 明确告知接收方，接收方必须遵守本协议；
+f. 不得通过转发规避第 4 条规定的任何限制。
+
+接收方依照本协议直接从派动控制取得许可。您无权代表派动控制作出额外授权、
+承诺、保证或责任承担。
+
+4. 禁止行为
+
+除适用法律明确规定不得排除的情形外，您不得自行或协助他人：
+
+a. 对本软件进行破解、反编译、反汇编、逆向工程，或以其他方式尝试获取源代码、
+   内部协议、密钥、认证材料或未公开实现；
+b. 绕过、破坏或规避身份认证、访问控制、数字签名、完整性校验、许可限制、
+   安全机制或其他技术保护措施；
+c. 修改、替换或删除二进制程序、安装和校验工具、数字签名、清单、版权标识、
+   许可证或第三方通知；
+d. 出售、出租、出借、再许可、收费分发本软件，或将本软件用于收费培训、商业研发、
+   商业产品、生产环境、对外服务、代开发、系统集成收费项目或其他商业用途；
+e. 使用本软件实施违法行为，侵犯他人权利，干扰或破坏设备、系统或网络；
+f. 将本软件用于可能危害人身安全、公共安全或公私财产安全的行为；
+g. 将本软件用于武器、伤害性装置，或在缺少符合应用风险等级的独立安全措施时，
+   用于生命支持、载人运输、医疗关键控制、消防应急关键控制、危险工业设备或其他
+   一旦失效即可能造成严重人身伤害或重大财产损失的场景；
+h. 移除、遮盖或擅自使用派动控制、PyMotion 或 PyMotion Lite 的名称、标识或商标，
+   使他人误认为您的产品或服务已获得派动控制认可、认证或授权。
+
+5. 版本与服务
+
+本软件仅许可用于本协议规定的个人用途和教育用途，不得用于生产部署、商业运营或
+关键任务。具体功能、接口、兼容性和使用要求以对应版本随附的正式文档为准。
+
+派动控制可以自行决定修改、更新、暂停或终止本软件及其功能，也可以发布适用不同条款的
+后续版本。除非派动控制另有书面说明，本协议不保证提供更新、维护、技术支持或兼容性。
+
+6. 使用者的安全义务
+
+您必须对具体使用环境、供电、接线、机械结构、负载、执行器、传感器、网络条件、
+软件逻辑和人员活动进行独立风险评估，并自行判断安装、测试和运行本软件是否可能
+危害人身安全、公共安全或公私财产安全。
+
+您必须：
+
+a. 遵守随产品提供的使用手册、安全警告、参数范围和操作说明；
+b. 在断电状态下完成接线和机械调整，核对电压、极性、接口和运动范围；
+c. 首次测试时采用低输出、短时长、空载或受控负载，并移开运动范围内的人员和物品；
+d. 根据实际风险设置独立于本软件的限位、防护、急停和可立即操作的物理断电措施；
+e. 在教育场景中为未成年人或缺乏相应能力的使用者提供合格的教师、监护人或专业人员
+   现场指导与监督；
+f. 在发现异常发热、异味、失控、通信异常、机械卡滞或其他危险迹象时立即停止使用
+   并切断相关电源。
+
+软件停止、通信超时、Token、控制权或其他软件安全机制不能替代物理安全措施。
+
+7. 免责声明
+
+在适用法律允许的最大范围内，本软件按“现状”和“可用状态”提供。派动控制不作任何
+明示、默示或法定保证，包括但不限于适销性、特定用途适用性、连续可用、无错误、
+与特定硬件或软件兼容以及不侵犯第三方权利的保证。
+
+因使用者未按文档操作、未履行安全义务、选择不适当的使用环境、错误接线或供电、
+自行改装、第三方硬件或软件、外部网络、机械结构、负载、维护不当或将本软件用于
+禁止用途所造成的损失和责任，由使用者自行承担。
+
+本协议不排除或限制适用法律规定不得排除或限制的责任，包括依法应由生产者承担的
+产品质量责任、造成对方人身损害的责任，以及因故意或重大过失造成对方财产损失的责任。
+
+8. 责任限制
+
+在适用法律允许的最大范围内，对于因使用或无法使用本软件产生的间接损失、附带损失、
+特殊损失、惩罚性损失、利润损失、数据损失、业务中断或第三方索赔，派动控制不承担责任。
+
+对于依法不能排除的责任，派动控制的责任范围依适用法律确定。本条不影响第 7 条最后一款
+所列的法定责任。
+
+9. 终止
+
+如果您违反本协议，许可将自动终止。许可终止后，您必须立即停止使用和转发本软件，
+并删除您控制范围内的本软件副本，但适用法律要求保留的副本除外。
+
+第 4 条、第 6 条、第 7 条、第 8 条以及按照其性质应在许可终止后继续有效的条款，
+在许可终止后继续有效。
+
+10. 完整协议与可分割性
+
+本协议构成派动控制与您之间关于本软件许可事项的完整约定。派动控制另行签署的书面协议
+与本协议不一致时，以另行签署的书面协议为准。
+
+如果本协议任何条款被认定为无效或不可执行，应在适用法律允许的范围内进行必要限缩，
+其余条款继续有效。
+
+11. 语言
+
+下列英文文本仅供参考。如中英文文本存在不一致，以中文文本为准。
+
+
+PyMotion Lite SDK License for Personal and Educational Use
+Version 1.0
+Effective Date: November 2, 2026
+
+Copyright Holder: 派动控制
+All rights reserved.
+
+IMPORTANT NOTICE
+
+This Agreement contains use restrictions, safety obligations, disclaimers,
+and limitations of liability. By downloading, installing, copying, receiving,
+forwarding, or using the Software, you acknowledge that you have read,
+understood, and agreed to be bound by this Agreement. If you do not agree,
+do not download, install, copy, forward, or use the Software.
+
+1. Definitions and Scope
+
+"Software" means the PyMotion Lite SDK distribution supplied with
+this Agreement, including its binaries, installation and verification tools,
+offline runtime, public APIs, documentation, examples, configuration files,
+and updates expressly made subject to this Agreement by 派动控制.
+
+"Personal Use" means non-commercial use by a natural person for learning,
+hobby, research, or non-profit prototyping.
+
+"Educational Use" means non-commercial use by schools, teachers, or learners
+for non-profit classroom teaching, coursework, or academic research. Paid
+training, customer-facing services, commercial research and development,
+product development, production deployment, or any activity intended to
+obtain a direct or indirect commercial benefit is not Educational Use.
+
+Third-party components remain subject to their own licenses and notices. This
+Agreement neither restricts rights already granted by third-party licenses nor
+expands the rights that 派动控制 can grant in third-party components.
+
+2. Limited License
+
+Subject to your continuing compliance with this Agreement, 派动控制 grants you
+a limited, non-exclusive, non-transferable (except for complete forwarding
+permitted by Section 3), non-sublicensable, revocable license to:
+
+a. install and run the Software on computers you own or control solely for
+   Personal Use or Educational Use;
+b. make a reasonable number of backup copies for those permitted uses; and
+c. modify public example code and write your own application code for learning
+   and teaching, without acquiring rights in the Software binaries, internal
+   implementation, or any other non-public portion of the Software.
+
+All rights not expressly granted are reserved by 派动控制. This Agreement does
+not transfer ownership or any copyright, trademark, patent, trade-secret, or
+other intellectual-property right in the Software.
+
+3. Permitted Forwarding to Third Parties
+
+You may forward the Software to third parties free of charge only if all of the
+following conditions are met:
+
+a. you forward only the complete, unmodified distribution released by
+   派动控制;
+b. you retain this Agreement, copyright notices, version information, digital
+   signatures, hash manifests, and third-party notices;
+c. you charge no software fee and do not bundle the Software with any paid
+   product, paid service, commercial course, or commercial solution;
+d. you do not represent yourself as an agent, authorized distributor, or
+   partner of 派动控制;
+e. you clearly inform the recipient that the recipient must comply with this
+   Agreement; and
+f. you do not use forwarding to evade any restriction in Section 4.
+
+The recipient receives a license directly from 派动控制 under this Agreement.
+You may not make additional grants, commitments, warranties, or assumptions of
+liability on behalf of 派动控制.
+
+4. Prohibited Conduct
+
+Except where applicable law expressly provides otherwise and does not permit
+contractual exclusion, you must not, directly or through another person:
+
+a. crack, decompile, disassemble, reverse engineer, or otherwise attempt to
+   obtain source code, internal protocols, keys, authentication material, or
+   non-public implementations of the Software;
+b. bypass, defeat, or circumvent authentication, access controls, digital
+   signatures, integrity checks, license restrictions, safety mechanisms,
+   or other technical protection measures;
+c. modify, replace, or remove binaries, installation and verification tools,
+   digital signatures, manifests, copyright notices, licenses, or third-party
+   notices;
+d. sell, rent, lend, sublicense, or distribute the Software for a fee, or use
+   it for paid training, commercial research and development, commercial
+   products, production environments, external services, contract development,
+   paid systems integration, or any other commercial purpose;
+e. use the Software for unlawful conduct, infringement of third-party rights,
+   or interference with or damage to devices, systems, or networks;
+f. use the Software in conduct that may endanger personal safety, public
+   safety, or public or private property;
+g. use the Software for weapons or harmful devices, or, without independent
+   safety measures appropriate to the risk level, for life support, passenger
+   transportation, safety-critical medical control, safety-critical fire or
+   emergency control, hazardous industrial equipment, or any scenario in which
+   a failure may cause serious personal injury or substantial property damage;
+   or
+h. remove, obscure, or misuse the names, logos, or trademarks of 派动控制,
+   PyMotion, or PyMotion Lite in a manner that suggests endorsement,
+   certification, or authorization of your product or service.
+
+5. Versions and Services
+
+The Software is licensed only for the Personal Use and Educational Use defined
+in this Agreement and must not be used for production deployment, commercial
+operation, or mission-critical applications. The official documentation
+supplied with each version controls its functionality, interfaces,
+compatibility, and use requirements.
+
+派动控制 may modify, update, suspend, or discontinue the Software or any of its
+functions, and may release later versions under different terms. Unless
+expressly stated in writing, this Agreement does not guarantee updates,
+maintenance, technical support, or compatibility.
+
+6. User Safety Obligations
+
+You must independently assess the actual environment, power supply, wiring,
+mechanical structure, loads, actuators, sensors, network conditions, software
+logic, and nearby persons, and determine whether installing, testing, or
+operating the Software may endanger personal safety, public safety, or public
+or private property.
+
+You must:
+
+a. follow all manuals, safety warnings, parameter limits, and operating
+   instructions supplied with the product;
+b. complete wiring and mechanical adjustments while power is disconnected,
+   and verify voltage, polarity, interfaces, and range of motion;
+c. use low output, short duration, and no-load or controlled-load conditions
+   during initial testing, with people and property removed from the range of
+   motion;
+d. provide limits, guards, emergency stops, and an immediately accessible
+   physical power disconnect independent of the Software and appropriate to
+   the actual risk;
+e. provide qualified on-site supervision by a teacher, guardian, or competent
+   professional when minors or persons without sufficient capability use the
+   Software in an educational setting; and
+f. immediately stop use and disconnect relevant power upon abnormal heating,
+   odor, loss of control, communication faults, mechanical binding, or any
+   other sign of danger.
+
+Software stops, communication timeouts, Tokens, control ownership, and other
+software safety mechanisms do not replace physical safety measures.
+
+7. Disclaimer
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS" AND "AS AVAILABLE." 派动控制 DISCLAIMS ALL EXPRESS, IMPLIED, AND
+STATUTORY WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, CONTINUOUS AVAILABILITY, ERROR-FREE OPERATION, COMPATIBILITY WITH
+PARTICULAR HARDWARE OR SOFTWARE, AND NON-INFRINGEMENT.
+
+The user is responsible for loss and liability arising from failure to follow
+the documentation or safety obligations, selection of an unsuitable operating
+environment, incorrect wiring or power supply, user modifications, third-party
+hardware or software, external networks, mechanical structures, loads,
+improper maintenance, or use of the Software for a prohibited
+purpose.
+
+This Agreement does not exclude or limit liability that applicable law does
+not permit to be excluded or limited, including legally required product-
+quality liability, liability for personal injury, and liability for property
+damage caused intentionally or through gross negligence.
+
+8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, 派动控制 IS NOT LIABLE FOR
+INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, LOSS OF
+PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR THIRD-PARTY CLAIMS ARISING
+FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+For liability that cannot legally be excluded, the scope of liability is
+determined by applicable law. This Section does not affect the mandatory
+liabilities identified in the final paragraph of Section 7.
+
+9. Termination
+
+This license terminates automatically if you breach this Agreement. Upon
+termination, you must immediately stop using and forwarding the Software and
+delete copies under your control, except copies that applicable law requires
+you to retain.
+
+Sections 4, 6, 7, and 8, together with provisions that by their nature should
+survive, remain effective after termination.
+
+10. Entire Agreement and Severability
+
+This Agreement is the entire agreement between 派动控制 and you concerning the
+licensing of the Software. If a separate written agreement signed by 派动控制
+conflicts with this Agreement, the signed written agreement controls.
+
+If any provision is held invalid or unenforceable, it will be narrowed only as
+necessary to the extent permitted by applicable law, and the remaining
+provisions will continue in effect.
+
+11. Language
+
+The English text is provided for reference only. If the Chinese and English
+texts conflict, the Chinese text controls.
+
